@@ -1,0 +1,10 @@
+wheel
+numpy==1.24.3
+scipy==1.8.1
+tensorflow==2.11.0
+nvidia-cudnn-cu11==8.6.0.163
+nvidia-pyindex
+nvidia-tensorrt
+keras==2.11.0
+matplotlib
+scikit-learn
